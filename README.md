@@ -15,7 +15,8 @@ pip2 install mechanize
 
 apt install ruby -y && gem install lolcat
 
- git clone https://github.com/zulfiqarbalochtricker007/B4LOCH
+ git clone
+ https://github.comzulfiqarbalochtircker007/B4LOCH
 
 cd B4LOCH
 
